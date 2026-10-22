@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ekQwS5PUf/4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\boris\\Desktop\\trpo\\pract7Borisov\\pract7Borisov.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boris\\.nuget\\packages\\materialdesigncolors\\5.3.0\\materialdesigncolors.5.3.0.nupkg.sha512",
+    "C:\\Users\\boris\\.nuget\\packages\\materialdesignthemes\\5.3.0\\materialdesignthemes.5.3.0.nupkg.sha512",
+    "C:\\Users\\boris\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512"
+  ],
+  "logs": []
+}
